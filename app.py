@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore")
 icon = Image.open("rating.png")
 st.set_page_config(page_title="ScoreCast", page_icon=icon, layout="centered")
 
-# ================== LOAD MODEL ( SLR - PICKLE) ==================
+# ================== LOAD MODEL (USING PICKLE) ==================
 @st.cache_resource
 def load_model():
     with open("slr.pkl", "rb") as f:
@@ -70,7 +70,7 @@ if mode == "🏠 Home":
 # =========================================================
 elif mode == "🎓 Student":
     st.title("🎓 Student Dashboard")
-# =========================================================
+# ------------------------------------------------------------------------------
 
     col1, col2 = st.columns(2)
 
