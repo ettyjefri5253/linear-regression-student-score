@@ -21,7 +21,7 @@ An interactive Streamlit application that uses machine learning to predict and a
 
 ### Calculator
 - Perform quick calculations
-- Supports expressions (e.g. `7 * (3 + 5)`)
+- Basic calculation (e.g. `+ / - *`)
 
 ---
 
