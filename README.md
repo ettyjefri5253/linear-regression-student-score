@@ -5,7 +5,7 @@ An interactive Streamlit application that uses machine learning to predict and a
 ## 🌐 Live Demo
 
 👉 [Open Live App](https://student-scorecast.streamlit.app/)
-
+---
 ## Features
 
 ### Student Dashboard
