@@ -1,8 +1,10 @@
+## 🌐 Live Demo
+
+👉 [Open Live App](https://student-scorecast.streamlit.app/)
+
 # Student Performance Dashboard
 
 An interactive Streamlit application that uses machine learning to predict and analyze student academic performance based on study hours.
-
----
 
 ## Features
 
